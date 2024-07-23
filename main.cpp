@@ -4,6 +4,7 @@
 
 typedef long long ll;
 using namespace std;
+typedef unsigned int ui;
 typedef unsigned long ul;
 
 int main() {
