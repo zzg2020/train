@@ -4,6 +4,7 @@
 
 typedef long long ll;
 using namespace std;
+typedef unsigned long ul;
 
 int main() {
     ll n, sum = 0;
